@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>设为默认城市</item>
+        <item>删除该城市</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>默认动画</item>
+        <item>旋转</item>
+        <item>推压</item>
+        <item>风车</item>
+        <item>立方体</item>
+        <item>正弦</item>
+        <item>圆柱体</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>无</item>
+        <item>打开桌面菜单</item>
+        <item>显示最近打开应用</item>
+        <item>打开通知栏</item>
+        <item>找图标</item>
+        <item>锁屏</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices">
+        <item>NONE</item>
+        <item>t9 应用搜索</item>
+        <item>轻应用</item>
+        <item>小部件</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices_values">
+        <item>NONE</item>
+        <item>t9 应用搜索</item>
+        <item>轻应用</item>
+        <item>小部件</item>
+    </string-array>
+</resources>

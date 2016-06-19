@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Set as default city</item>
+        <item>Delete this city</item>
+    </string-array>
+    <array name="preview">
+        <item>@drawable/themepreview</item>
+        <item>@drawable/themepreview_1</item>
+    </array>
+    <string-array name="pref_icon_size_values">
+        <item>57</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="pref_slide_effect_values">
+        <item>NONE</item>
+        <item>ROTATE</item>
+        <item>BULLDOZE</item>
+        <item>WINDMILL</item>
+        <item>CUBE</item>
+        <item>WAVE</item>
+        <item>CYLINDER</item>
+    </string-array>
+    <string-array name="pref_gesture_values">
+        <item>none</item>
+        <item>menu</item>
+        <item>recentApp</item>
+        <item>notification</item>
+        <item>Positioning</item>
+        <item>lockscreen</item>
+    </string-array>
+    <string-array name="pref_icon_text_size_values">
+        <item>15</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_title_color_values">
+        <item>theme</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Default</item>
+        <item>Rotate</item>
+        <item>Bulldoze</item>
+        <item>Windmill</item>
+        <item>Cube</item>
+        <item>Sine Wave</item>
+        <item>Cylinder</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>None</item>
+        <item>Open desktop menu</item>
+        <item>Show recently used apps</item>
+        <item>Open notification bar</item>
+        <item>Find icon</item>
+        <item>Lock screen</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices">
+        <item>NONE</item>
+        <item>t9 Search</item>
+        <item>web apps</item>
+        <item>widgets</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices_values">
+        <item>NONE</item>
+        <item>t9 Search</item>
+        <item>web apps</item>
+        <item>widgets</item>
+    </string-array>
+    <string-array name="pref_select_desktop_layout_choices">
+        <item>4x5</item>
+        <item>4x4</item>
+    </string-array>
+</resources>

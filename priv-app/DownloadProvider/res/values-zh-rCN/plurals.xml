@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d 任务正在下载</item>
+        <item quantity="one">1 任务正在下载</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:left="@dimen/controlcenter_grid_item_landscape_selpad_left" android:top="@dimen/controlcenter_grid_item_landscape_selpad_top" android:right="@dimen/controlcenter_grid_item_landscape_selpad_left" android:bottom="@dimen/controlcenter_grid_item_landscape_selpad_top">
+                <shape android:shape="oval">
+                    <solid android:color="@color/control_center_switchitem_press_backcolor" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:drawable="@android:color/transparent" />
+</selector>

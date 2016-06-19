@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:orientation="vertical" android:id="@id/statusbar_stub_view" android:background="@color/title_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="18.0dip" />
+    <include android:id="@id/title_bar" layout="@layout/title" />
+    <RelativeLayout android:id="@id/thief_all_layout" android:background="@color/layout_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title_bar">
+        <TextView android:textSize="14.0sp" android:textColor="@color/title_text_two_color" android:id="@id/thief_insurance_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="30.0dip" android:text="@string/thief_insurance" />
+        <View android:id="@id/line" android:background="@color/line_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="16.0dip" android:layout_below="@id/thief_insurance_tips" />
+        <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="16.0dip" android:layout_below="@id/line">
+            <TableRow android:id="@id/tablerow1" android:background="@drawable/shape_top_corner_no_bottom_line" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_describe_color" android:gravity="center|left" android:id="@id/policy_number_label" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:minHeight="31.0dip" android:text="@string/policy_number_label" />
+                <View android:layout_gravity="center_horizontal" android:background="@color/line_color" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_info_color" android:gravity="center|left" android:id="@id/policy_number" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow android:id="@id/tablerow2" android:background="@drawable/shape_no_corner_without_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_describe_color" android:gravity="center|left" android:id="@id/begin_time_label" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:minHeight="31.0dip" android:text="@string/begin_time_label" />
+                <View android:layout_gravity="center_horizontal" android:background="@color/line_color" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_info_color" android:layout_gravity="center|left" android:id="@id/begin_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow android:id="@id/tablerow3" android:background="@drawable/shape_no_corner_without_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_describe_color" android:gravity="center|left" android:id="@id/end_time_label" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:minHeight="31.0dip" android:text="@string/end_time_label" />
+                <View android:layout_gravity="center_horizontal" android:background="@color/line_color" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_info_color" android:layout_gravity="center|left" android:id="@id/end_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow android:id="@id/tablerow4" android:background="@drawable/shape_no_corner_without_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_describe_color" android:gravity="center|left" android:id="@id/insurance_claims_label" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:minHeight="31.0dip" android:text="@string/insurance_claims_label" />
+                <View android:layout_gravity="center_horizontal" android:background="@color/line_color" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_info_color" android:layout_gravity="center|left" android:id="@id/insurance_claims" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow android:id="@id/tablerow5" android:background="@drawable/shape_bottom_corner_no_top_line" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_describe_color" android:layout_gravity="center|left" android:id="@id/claims_guidelines_label" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:minHeight="31.0dip" android:text="@string/claims_guidelines_label" />
+                <View android:layout_gravity="center_horizontal" android:background="@color/line_color" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="@color/text_info_color" android:autoLink="all" android:layout_gravity="center|left" android:id="@id/claims_guidelines" android:layout_width="230.0dip" android:layout_height="wrap_content" android:stretchColumns="*" />
+            </TableRow>
+        </TableLayout>
+        <ImageView android:id="@id/effect" android:background="#00000000" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/effect" android:layout_below="@id/line" android:layout_alignParentRight="true" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="80.0dip" android:layout_alignParentBottom="true" android:layout_centerInParent="true">
+            <TextView android:textSize="12.0sp" android:textColor="#ff999999" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/insurance_service" />
+            <TextView android:textSize="12.0sp" android:textColor="#ff999999" android:autoLink="all" android:paddingLeft="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/insurance_service_tell" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ProgressBar android:id="@id/show_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <WebView android:id="@id/show_thief_web" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title_bar" />
+    <include android:id="@id/thief_layout" layout="@layout/thief_layout" />
+</RelativeLayout>

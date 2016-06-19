@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="perms_category">
+        <item>Fee-related</item>
+        <item>Privacy-related</item>
+        <item>Multimedia-related</item>
+        <item>Settings-related</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>Accept</item>
+        <item>Deny</item>
+        <item>Prompt</item>
+        <item>Unknow</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>Accept</item>
+        <item>Prompt</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>Accept</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Vibrate</item>
+        <item>Access Contacts</item>
+        <item>Access Contacts</item>
+        <item>Access Call Logs</item>
+        <item>Access Call Logs</item>
+        <item>Access Calendar</item>
+        <item>Access Calendar</item>
+        <item>Determine Location</item>
+        <item>Post notification</item>
+        <item>Determine Location</item>
+        <item>Make Calls</item>
+        <item>Access SMS Records</item>
+        <item>Access SMS Records</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Access SMS Records</item>
+        <item>Access SMS Records</item>
+        <item>Modify System Settings</item>
+        <item>Display Floating Window</item>
+        <item>Access notifications</item>
+        <item>Turn On Camera</item>
+        <item>Turn On Voice Recorder</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>Open Wi-Fi</item>
+        <item>Turn On Bluetooth</item>
+        <item>Send MMS</item>
+        <item>Access MMS Records</item>
+        <item>Access MMS Records</item>
+        <item>Autostart Apps</item>
+        <item>Nfc Change</item>
+        <item>Access SMS Records</item>
+        <item>Access MMS Records</item>
+        <item>Access Contacts</item>
+        <item>Access Call Logs</item>
+        <item>Turn On Mobile Network</item>
+        <item>Get Device Information</item>
+        <item>Create Desktop Shortcut</item>
+        <item>Access-related</item>
+        <item>Read Phone Number</item>
+        <item>Write WallPaper</item>
+        <item>Assist Structure</item>
+        <item>Assist ScreenShot</item>
+        <item>Read Phone State</item>
+        <item>Add Voice Mail</item>
+        <item>Use Sip</item>
+        <item>Process Outgoing Calls</item>
+        <item>Use FingerPrint</item>
+        <item>Use Sensors</item>
+        <item>Read Cell Broadcasts</item>
+        <item>Mock Location</item>
+        <item>Read External Storage</item>
+        <item>Write External Storage</item>
+        <item>Turn Screen On</item>
+        <item>Access Account Details</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_cleansetting_autoclean_array">
+        <item>When more than 20MB</item>
+        <item>When more than 50MB</item>
+        <item>When more than 100MB</item>
+        <item>Disable Auto Clean</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_tab_array">
+        <item>Cache</item>
+        <item>Large files</item>
+        <item>Seldom-used apps</item>
+        <item>Photo</item>
+        <item>Audio</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_openfile_array">
+        <item>Text</item>
+        <item>Audio</item>
+        <item>Video</item>
+        <item>Photo</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_compositor_array">
+        <item>Sort by name</item>
+        <item>Sort by size</item>
+        <item>Sort by loading time</item>
+    </string-array>
+</resources>

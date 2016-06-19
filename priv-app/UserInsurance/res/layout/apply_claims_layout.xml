@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/layout_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:orientation="vertical" android:id="@id/statusbar_stub_view" android:background="@color/title_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="18.0dip" />
+    <include android:id="@id/title_bar" layout="@layout/title" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/title_bar">
+        <RelativeLayout android:id="@id/context_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="14.0sp" android:textColor="@color/title_text_two_color" android:id="@id/tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:text="@string/register_prove" />
+            <View android:id="@id/line" android:background="@color/line_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="16.0dip" android:layout_below="@id/tips" />
+            <RelativeLayout android:id="@id/img_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="20.0dip" android:layout_below="@id/line">
+                <RelativeLayout android:id="@id/img1_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/img1" android:background="@drawable/add_img_default" android:layout_width="90.0dip" android:layout_height="120.0dip" android:layout_alignParentLeft="true" />
+                    <ImageView android:id="@id/img1_del" android:background="#00000000" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="70.0dip" android:src="@drawable/delete" />
+                </RelativeLayout>
+                <RelativeLayout android:id="@id/img2_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:layout_toRightOf="@id/img1_layout">
+                    <ImageView android:id="@id/img2" android:background="@drawable/add_img_default" android:layout_width="90.0dip" android:layout_height="120.0dip" android:layout_alignParentLeft="true" />
+                    <ImageView android:id="@id/img2_del" android:background="#00000000" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="70.0dip" android:src="@drawable/delete" />
+                </RelativeLayout>
+                <RelativeLayout android:id="@id/img3_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/img2_layout">
+                    <ImageView android:id="@id/img3" android:background="@drawable/add_img_default" android:layout_width="90.0dip" android:layout_height="120.0dip" android:layout_alignParentLeft="true" />
+                    <ImageView android:id="@id/img3_del" android:background="#00000000" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="70.0dip" android:src="@drawable/delete" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <EditText android:textSize="14.0sp" android:textColor="@color/title_text_two_color" android:gravity="center|left|top" android:id="@id/edit_claims_describe" android:background="@drawable/edit_shape" android:paddingLeft="10.0dip" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="227.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:hint="@string/describe_tips" android:minLines="6" android:layout_below="@id/img_layout" android:inputType="textMultiLine" />
+            <Button android:textSize="15.0sp" android:textColor="#ffffffff" android:id="@id/claims_submit" android:background="@drawable/button_selector" android:layout_width="328.0dip" android:layout_height="44.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="50.0dip" android:text="@string/submit" android:layout_below="@id/edit_claims_describe" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/show_progressbar_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+            <ProgressBar android:id="@id/show_progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="14.0sp" android:textColor="#ff999999" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/submit_tips" android:layout_below="@id/show_progressbar" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

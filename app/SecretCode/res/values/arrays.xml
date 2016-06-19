@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appLogType">
+        <item>system log</item>
+        <item>kernel log</item>
+        <item>net log</item>
+        <item>radio log</item>
+        <item>bluetooth log</item>
+        <item>ramdump log</item>
+        <item>power/performance log</item>
+    </string-array>
+</resources>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">离线日志</string>
+    <string name="version_dialog_title">版本信息</string>
+    <string name="productmodel">产品型号：</string>
+    <string name="hardversion">硬件版本号：</string>
+    <string name="softversion">软件版本号：</string>
+    <string name="frameworkversion">固件版本号：</string>
+    <string name="osversion">操作系统版本号：</string>
+    <string name="unknow">未知</string>
+    <string name="disable_fdn_activity_title">呼叫限制设置</string>
+    <string name="tv_text">"开机呼叫限制设置.
+(启用 / 禁用)"</string>
+    <string name="btn_post">启用</string>
+    <string name="btn_neg">禁用</string>
+    <string name="enable_fdn">启用</string>
+    <string name="disable_fdn">禁用</string>
+    <string name="reboot_device_title">重启机器</string>
+    <string name="reboot_device_message_pre_on">SS 服务被启用</string>
+    <string name="reboot_device_message_pre_off">SS 服务被禁用</string>
+    <string name="reboot_device_message_post">（重启生效！！！）</string>
+    <string name="reboot">重启</string>
+    <string name="cancel">取消</string>
+    <string name="default_state">错误状态:</string>
+    <string name="cur_state">当前附加业务状态：</string>
+    <string name="alert_string">警告！</string>
+    <string name="alert_message_string">按【确定】键将恢复出厂设置，并清空所有用户数据，强烈建议普通用户谨慎操作！</string>
+    <string name="alert_message_ums_string">按【确定】键将开启UMS模式，在USB界面可以选择MTP切换回普通模式，该功能仅限于调试！</string>
+    <string name="alert_ok">确定</string>
+    <string name="alert_no">取消</string>
+    <string name="framework_inf">内部版本号</string>
+    <string name="log_settings">离线日志</string>
+    <string name="sum_elog_settings">elog设置，包括上层，物理层，平台的log</string>
+    <string name="elog_settings">CP日志</string>
+    <string name="commit_cate">保存</string>
+    <string name="commit_summary">保存日志到sdcard/log</string>
+    <string name="commit_title">保存日志</string>
+    <string name="waittingDialog_title">正在保存日志,请稍后...</string>
+    <string name="SD_check">SD不可用</string>
+    <string name="SD_answer">确定</string>
+    <string name="sum_aplog_settings">aplog 保存</string>
+    <string name="aplog_settings">aplog 设置</string>
+    <string name="sum_directlog_settings">directlog 保存</string>
+    <string name="directlog_settings">directlog 设置</string>
+    <string name="elog_enable">开启 ELOG</string>
+    <string name="elog_enable_summary">开启 ELOG 功能开关</string>
+    <string name="pf_settings_category">平台 LOG 设置</string>
+    <string name="pf_quick_toggle_title">平台 LOG</string>
+    <string name="pf_quick_toggle_summary">平台各模块 LOG 设置开关</string>
+    <string name="pf_settings_title">平台 LOG 设置</string>
+    <string name="pf_settings_summary">平台各模块 LOG 设置,包括短信，call...</string>
+    <string name="contactor_manager_title">接收人列表</string>
+    <string name="contactor_manager_summary">修改联系人电话号码</string>
+    <string name="contactor_list_title">联系人名单输入</string>
+    <string name="contactor_adddelete_title">联系人名单</string>
+    <string name="hls_settings_title">上层 LOG 设置</string>
+    <string name="hls_quick_toggle_title">上层 LOG</string>
+    <string name="hls_quick_toggle_summary">上层各模块 LOG 设置开关</string>
+    <string name="hls_settings_summary">上层各模块 LOG 设置,包括VT，ps...</string>
+    <string name="pl_settings_title">物理层 LOG 设置</string>
+    <string name="pl_quick_toggle_title">物理层 LOG</string>
+    <string name="pl_quick_toggle_summary">物理层各模块 LOG 设置开关</string>
+    <string name="pl_settings_summary">物理层各模块 LOG 设置,包括HSDPA，HSUPA...</string>
+    <string name="store_location_title">存储位置</string>
+    <string name="store_location_title_summary">log 存储位置，SD卡或I nand。</string>
+    <string name="modem_assert_title">Modem Assert</string>
+    <string name="system_crash_title">system crash</string>
+    <string name="summary_on">打开</string>
+    <string name="summary_off">关闭</string>
+    <string name="hlslog_settings">上层log设置</string>
+    <string name="hlslog_basic_L1_title">上层基本的log</string>
+    <string name="hlslog_basic_PS_title">上层PS的log</string>
+    <string name="hlslog_basic_call_title">上层呼叫的log</string>
+    <string name="hlslog_basic_vt_title">上层视频呼叫的log</string>
+    <string name="hlslog_basic_all_title">上层所有的log</string>
+    <string name="enable_modem">开启modem模式</string>
+    <string name="enable_modem_summary">开启modem模式</string>
+    <string name="enable_AP_UART">使能AP UART</string>
+    <string name="enable_AP_UART_summary">AP UART 输出LOG</string>
+    <string name="system_log_title">系统log</string>
+    <string name="system_log_summary">包括 高，中，低级 log</string>
+    <string name="high_level_log_title">高级log</string>
+    <string name="high_level_log_summary">高级log</string>
+    <string name="System_log_v_title">系统日志</string>
+    <string name="System_log_v_summary">系统日志</string>
+    <string name="kernel_log_summary">内核日志</string>
+    <string name="kernel_log_title">内核日志</string>
+    <string name="power_log_summary">电源日志</string>
+    <string name="power_log_title">电源日志</string>
+    <string name="TCPIP_log_summary">网络日志</string>
+    <string name="TCPIP_log_title">网络日志</string>
+    <string name="radio_log_summary">无线日志</string>
+    <string name="radio_log_title">无线日志</string>
+    <string name="trace_log_summary">trace.txt</string>
+    <string name="trace_log_title">Trace</string>
+    <string name="ap_log">AP日志</string>
+    <string name="system_log">系统日志</string>
+    <string name="advanced_mode_summary">高层，物理层，平台层日志</string>
+    <string name="advanced_mode_title">ELog配置</string>
+    <string name="user_mode_summary">短信，彩信，呼叫...</string>
+    <string name="user_mode_title">用户模式</string>
+    <string name="report_log_summary">报告包含modem assert,system crash</string>
+    <string name="report_log_title">报告</string>
+    <string name="exit_confirm">确定退出离线日志？</string>
+    <string name="yes_exit">确定</string>
+    <string name="no_exit">取消</string>
+    <string name="cp_usb_port">输出开关</string>
+    <string name="enable_direct_log">MiniTT模式</string>
+    <string name="enable_direct_log_summary">通过USB输出CP log</string>
+    <string name="enable_e_log">ELog模式</string>
+    <string name="elog_save_summary">保存ELog日志到sdcard/log/elog</string>
+    <string name="elog_save_title">保存ELog</string>
+    <string name="ata_log">ATA日志</string>
+    <string name="lc_oms_ata_log">联芯ATA日志</string>
+    <string name="modem_reset_message">重启 modem 中，请耐心等待。</string>
+    <string name="modem_reset_title">重启 modem</string>
+    <string name="bt_log_summary">蓝牙日志</string>
+    <string name="bt_log_title">蓝牙日志</string>
+    <string name="offlinelog_advanced_options">高级选项</string>
+    <string name="subsys_debug_mode_summary_on">子系统死机后进入ramdump模式</string>
+    <string name="subsys_debug_mode_summary_off">自动重启子系统</string>
+    <string name="subsys_debug_mode_title">子系统调试模式</string>
+    <string name="massive_sys_log_summary">保存海量系统日志文件</string>
+    <string name="massive_sys_log_title">海量系统日志</string>
+    <string name="option_warning_text">仅限内部专业测试！</string>
+    <string name="enable">启用全能播放器</string>
+    <string name="disable">禁止全能播放器</string>
+    <string name="enable_success">已经成功启用全能播放器.</string>
+    <string name="disable_success">已经成功禁用全能播放器.</string>
+    <string name="feature_title">新功能</string>
+    <string name="feature_content">支持扩展的文件格式: rm/rmvb/flv/divx/mov/mpg/f4v等</string>
+    <string name="warning_title">使用说明</string>
+    <string name="warning_content1">1. 扩展功能基于开源FFMPEG实现，仅供测试使用；用户如需要使用，请自行负责相关licence问题。</string>
+    <string name="warning_content2">2. 使能全能播放器功能后，在文件管理器中可以立即播放扩展的文件格式；如需要在视频播放器列表中显示出扩展支持的格式，需要先重启手机,然后重新拷贝扩展支持的文件到手机。</string>
+    <string name="test_active">"active test card mode 
+ need reboot system"</string>
+    <string name="test_deactive">"deactive test card mode 
+ need reboot system"</string>
+    <string name="dialog_ok">ok</string>
+    <string name="dialog_cancel">cancel</string>
+    <string name="enable_tds">Enable TDSCDMA Integrity</string>
+    <string name="disable_tds">Disable TDSCDMA Integrity</string>
+    <string name="enable_frn">Enable fast register network</string>
+    <string name="disable_frn">Disable fast register network</string>
+    <string name="debug_example_title">USB眼图测试</string>
+    <string name="debug_example_summary">取消USB子系统电源管理，以便USB眼图测试</string>
+    <string name="debug_rndis_diag_title">打开 RNDIS DIAG 兼容模式</string>
+    <string name="debug_rndis_diag_summary">激活此功能后，打开 USB 网络共享时，USB 模式会设置为 rndis,diag ，用以抓取 QXDM LOG 。该功能仅限于调试。</string>
+    <string name="debug_enable_mass_storage_title">打开UMS模式</string>
+    <string name="debug_enable_mass_storage_summary">设置属性 sys.usb.config 为 mass_storage ，该功能仅限于调试。</string>
+    <string name="app_log">应用日志</string>
+    <string name="modem_log">Modem日志</string>
+    <string name="cs_log">注网/掉网/电话/短信/补充业务/卡相关问题</string>
+    <string name="ps_log">GPS相关问题</string>
+    <string name="save_log_limit">日志文件大小限定</string>
+    <string name="save_log_position">日志文件位置: /sdcard/log/</string>
+    <string name="modem_start">开始</string>
+    <string name="warnning">警告</string>
+    <string name="select_cfg">确认要抓取该日志吗? 可能存在存储消耗风险。</string>
+    <string name="confirm">确定</string>
+    <string name="description_top">使用说明：</string>
+    <string name="app_title">离线日志工具</string>
+    <string name="applog_advanced_settings">应用日志高级设置</string>
+    <string name="enable_aplog_for_user">请“长按应用日志”开始抓取日志</string>
+    <string name="description_more">更多</string>
+    <string name="description_help">使用说明</string>
+    <string name="description_main">1. 保存日志请手动点击“保存”，路径为/sdcard/log。</string>
+    <string name="description_main1">2. 日志详细使用说明请点击“更多”。</string>
+    <string name="description">"本离线log工具分为应用日志和Modem日志两部分。
+
+ 1. 应用日志
+ （1）user版本log默认关闭，需要用户提前手动开启相应模块。
+ （2）应用日志支持多选，开启相应模块选项后，系统开始抓取日志。
+ （3）系统日志（上层应用和平台相关）、内核日志（底层驱动kernel相关）、网络日志（电话和数据相关）、无线日志（WIFI相关）、蓝牙日志（蓝牙相关）、rampdump日志（抓取dump需要开启）、功耗性能。
+ （4）出现问题后，再次进入该界面，点击“保存”。
+
+ 2. Modem日志
+ （1) Modem日志主要用于分析与modem相关的问题, 如无法拔打电话, 收发短信, 注网失败等. 默认情况下, modem日志是关闭的. 需要在复现问题之前, 把modem日志打开. 
+ （2) 操作说明: 
+ 在准备复现问题之前, 点击Modem日志右侧的开始按钮, 工具软件会自动切换到后台运行,并在状态栏显示工具软件图标, 此表示正在抓取modem日志; 复现问题之后, 通过下拉状态栏并点击工具软件图标, 切回到工具软件; 然后点击Modem日志右侧的保存按钮, Modem日志保存完成之后工具软件会自动退出并停止抓取Modem日志. 如果需要再次复现问题抓取Modem日志, 请按上述操作重新打开Modem日志功能. 
+ （3) 日志文件信息: 
+ Modem日志保存在/sdcard/log目录下面, 以qmdl结尾的文件即为Modem日志文件; 其它文件则为应用日志文件.
+
+ 3. 日志保存位置：/sdcard/log"</string>
+    <string name="current_country_code">当前国家码</string>
+    <string name="current_country_code_unknown">未知</string>
+    <string name="reset_theme_dialog_title">重置主题中...</string>
+    <string name="reset_theme_reboot">重置成功！重启中...</string>
+    <string name="basebandversion">基带版本号：</string>
+    <string name="reboot_device_message_pre">附加服务已</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/title_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:orientation="vertical" android:id="@id/statusbar_stub_view" android:background="@color/title_bg" android:layout_width="fill_parent" android:layout_height="18.0dip" />
+        <include android:id="@id/title_bar" layout="@layout/title" />
+        <TextView android:textSize="15.0sp" android:textColor="@color/dialog_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="1.0dip" android:text="@string/text_first" />
+        <View android:background="@drawable/flow11" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="90.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="10.0dip" />
+        <TextView android:textSize="15.0sp" android:textColor="@color/dialog_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="1.0dip" android:text="@string/text_second" />
+        <View android:background="@drawable/flow222" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="100.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="10.0dip" />
+        <TextView android:textSize="15.0sp" android:textColor="@color/dialog_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="1.0dip" android:text="@string/text_third" />
+        <View android:background="@drawable/flow3" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="160.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="10.0dip" />
+        <Button android:textSize="15.0sp" android:textColor="#ffffffff" android:id="@id/continue_purchase_claims" android:background="@drawable/button_selector" android:layout_width="300.0dip" android:layout_height="40.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/continue_purchase" />
+    </LinearLayout>
+</ScrollView>

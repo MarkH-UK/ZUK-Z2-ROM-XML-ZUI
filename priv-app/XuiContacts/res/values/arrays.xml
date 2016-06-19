@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Default</item>
+        <item>Piano</item>
+    </string-array>
+    <string-array name="lunar_month_array">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="lunar_day_array">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <item type="array" name="blade_full_sections">false</item>
+    <item type="array" name="blade_indicator_tops">false</item>
+    <item type="array" name="blade_replaced_sections">false</item>
+    <item type="array" name="blade_section_baselines">false</item>
+</resources>

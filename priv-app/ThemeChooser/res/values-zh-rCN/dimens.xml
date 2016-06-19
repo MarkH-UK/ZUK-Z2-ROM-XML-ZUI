@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="switch_skin_tips_text_width">260.0dip</dimen>
+    <dimen name="switch_skin_tips_text_height">35.0dip</dimen>
+    <dimen name="switch_skin_tips_text_marginTop">15.0dip</dimen>
+    <dimen name="switch_skin_split_view_marginTop">15.0dip</dimen>
+</resources>

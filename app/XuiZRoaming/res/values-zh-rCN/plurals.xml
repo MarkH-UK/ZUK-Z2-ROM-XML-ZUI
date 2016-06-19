@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_days_and_amount">
+        <item quantity="other">%1$d天%2$s元</item>
+    </plurals>
+</resources>

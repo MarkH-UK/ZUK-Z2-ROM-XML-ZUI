@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_password_enter_pin_code">PİN kodu daxil edin</string>
+    <string name="keyguard_password_enter_puk_code">PUK və yeni PİN kod daxil edin</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK kod</string>
+    <string name="keyguard_password_enter_pin_prompt">Yeni PIN kodu</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Şifrə daxil etmək üçün toxunun</font></string>
+    <string name="keyguard_password_enter_password_code">Kilidi açmaq üçün parol yazın</string>
+    <string name="keyguard_password_enter_pin_password_code">Kilidi açmaq üçün PIN daxil edin</string>
+    <string name="keyguard_password_wrong_pin_code">Yanlış PIN kodu.</string>
+    <string name="keyguard_label_text">Kilidi açmaq üçün Menyu, sonra 0 basın.</string>
+    <string name="faceunlock_multiple_failures">Sifət kilidi cəhdləriniz bitdi</string>
+    <string name="keyguard_charged">Dolmuş</string>
+    <string name="keyguard_plugged_in">Dolur, %d%%</string>
+    <string name="keyguard_low_battery">Elektrikə qoşun.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Kilidi açmaq üçün Menyu düyməsinə baxın.</string>
+    <string name="keyguard_network_locked_message">Şəbəkə kilidləndi</string>
+    <string name="keyguard_missing_sim_message_short">SİM kart yoxdur</string>
+    <string name="keyguard_missing_sim_message">Telefonda SİM kart yoxdu.</string>
+    <string name="keyguard_missing_sim_instructions">SIM kartı daxil edin.</string>
+    <string name="keyguard_missing_sim_instructions_long">SİM kart yoxdur və ya oxuna bilinmir. SİM kart daxil edin.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Yararsız SIM kart.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Sizin SİM kartınız daimi olaraq deaktivləşib.
+ Başqa SİM kart üçün simsiz xidmət provayderinizə müraciət edin."</string>
+    <string name="keyguard_sim_locked_message">SIM kart kilidlənib.</string>
+    <string name="keyguard_sim_puk_locked_message">SİM kart PUK ilə kilidlənib.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SİM kartın kilidi açılır...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Widget əlavə edin.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Boş</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Kilidi açma sahəsi genişləndi.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Kilidi açma sahəsi çökdü.</string>
+    <string name="keyguard_accessibility_widget">%1$s vidcet.</string>
+    <string name="keyguard_accessibility_user_selector">İstifadəçi selektoru</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Media kontrolları</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Yenidən sıralama vidceti başladıldı.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Vidcetin təkrar sifarişi sona çatdı.</string>
+    <string name="keyguard_accessibility_widget_deleted">Vidcet %1$s silindi.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Kilidi açma sahəsini genişləndir.</string>
+    <string name="keyguard_accessibility_slide_unlock">Sürüşdürmə kilidi.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Kild açma modeli.</string>
+    <string name="keyguard_accessibility_face_unlock">Sifət Kilidi</string>
+    <string name="keyguard_accessibility_pin_unlock">Pin kilid açması.</string>
+    <string name="keyguard_accessibility_password_unlock">Şifrə kilidi.</string>
+    <string name="keyguard_accessibility_pattern_area">Model sahəsi.</string>
+    <string name="keyguard_accessibility_slide_area">Sürüşdürmə sahəsi.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Əvvəlki izləmə düyməsi</string>
+    <string name="keyguard_accessibility_transport_next_description">Növbəti izləmə düyməsi</string>
+    <string name="keyguard_accessibility_transport_pause_description">Pauza düyməsi</string>
+    <string name="keyguard_accessibility_transport_play_description">Oxutma düyməsi</string>
+    <string name="keyguard_accessibility_transport_stop_description">Dayandırma düyməsi</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Ləğv et</string>
+    <string name="keyboardview_keycode_delete">Sil</string>
+    <string name="keyboardview_keycode_done">Hazırdır</string>
+    <string name="keyboardview_keycode_mode_change">Rejim dəyişikliyi</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Daxil olun</string>
+    <string name="description_target_unlock">Kilidi aç</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Səssiz</string>
+    <string name="description_target_soundon">Səs açıqdır</string>
+    <string name="description_target_search">Axtar</string>
+    <string name="description_direction_up">%s üçün yuxarı sürüşdürün.</string>
+    <string name="description_direction_down">%s üçün aşağı sürüşdürün.</string>
+    <string name="description_direction_left">%s üçün sola sürüşdür.</string>
+    <string name="description_direction_right">%s üçün sağa sürüşdür.</string>
+    <string name="user_switched">Cari istifadəçi %1$s.</string>
+    <string name="kg_emergency_call_label">Təcili zəng</string>
+    <string name="kg_forgot_pattern_button_text">Şablonu unutmuşam</string>
+    <string name="kg_wrong_pattern">Yanlış Model</string>
+    <string name="kg_wrong_password">Yanlış Şifrə</string>
+    <string name="kg_wrong_pin">PIN səhvdir</string>
+    <string name="kg_too_many_failed_attempts_countdown">%d saniyə sonra yenidən cəhd edin.</string>
+    <string name="kg_pattern_instructions">Şablonunuzu çəkin</string>
+    <string name="kg_sim_pin_instructions">SIM PIN kodu daxil edin</string>
+    <string name="kg_pin_instructions">PİN kodu daxil edin</string>
+    <string name="kg_password_instructions">Parol daxil edin</string>
+    <string name="kg_puk_enter_puk_hint">SIM indi deaktivdir. Davam etmək üçün PUK kodu daxil edin. Əlavə məlumat üçün operatora müraciət edin.</string>
+    <string name="kg_puk_enter_pin_hint">İstədiyiniz PİN kodu daxil edin</string>
+    <string name="kg_enter_confirm_pin_hint">İstədiyiniz PIN kodu təsdiqləyin</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SİM kartın kilidi açılır...</string>
+    <string name="kg_invalid_sim_pin_hint">4-dən 8-ə qədər rəqəmi olan PIN yazın.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK kod 8 rəqəm və ya daha çox olmalıdır.</string>
+    <string name="kg_invalid_puk">"Düzgün PUK kodu yenidən daxil edin. Təkrarlanan cəhdlər SIM'i birdəfəlik sıradan çıxaracaq."</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN kodları uyğun deyil</string>
+    <string name="kg_login_too_many_attempts">Həddindən çox cəhd edildi!</string>
+    <string name="kg_login_instructions">Kilidi açmaq üçün Google hesabınız ilə daxil olun.</string>
+    <string name="kg_login_username_hint">İstifadəçi adı (e-poçt)</string>
+    <string name="kg_login_password_hint">Şifrə</string>
+    <string name="kg_login_submit_button">Daxil ol</string>
+    <string name="kg_login_invalid_input">Yanlış istifadəçi adı və ya parol.</string>
+    <string name="kg_login_account_recovery_hint">"İstifadəçi adınızı və ya parolunuzu unutmusunuz?
+ "<b>google.com/accounts/recovery</b> linkinə daxil olun.</string>
+    <string name="kg_login_checking_password">Hesab yoxlanılır...</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %d dəfə yanlış daxil etdiniz.
+
+ %d saniyə ərzində yenidən yoxlayın"</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrənizi %d dəfə yanlış daxil etdiniz. 
+
+ %d saniyə ərzində yenidən yoxlayın."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Modelinizi %d dəfə yanlış çəkmisiniz.
+
+ %d saniyə ərzində yenidən yoxlayın"</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Siz telefon kilidini açmaq üçün %d dəfə uğursuz cəhd etmisiniz. %d dəfə də uğursuz cəhd etsəniz, telefon fabrik ayarlarına sıfırlanacaq və bütün məlumatlarınız itəcək.</string>
+    <string name="kg_failed_attempts_now_wiping">Siz telefonun kilidini açmaq üçün %d yanlış cəhd etmisiniz. Telefon artıq defolt zavod halına sıfırlanacaq.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Siz artıq modeli %d dəfə yanlış daxil etmisiniz.%d dəfə də yanlış daxil etsəniz, telefonun kilidinin açılması üçün elektron poçt ünvanınız tələb olunacaq.
+
+ %d saniyə ərzində yenidən cəhd edin."</string>
+    <string name="kg_text_message_separator">" - "</string>
+    <string name="kg_reordering_delete_drop_target_text">Yığışdır</string>
+    <string name="keyguard_transport_prev_description">Əvvəlki izləmə düyməsi</string>
+    <string name="keyguard_transport_next_description">Növbəti izləmə düyməsi</string>
+    <string name="keyguard_transport_pause_description">Pauza düyməsi</string>
+    <string name="keyguard_transport_play_description">Oxutma düyməsi</string>
+    <string name="keyguard_transport_stop_description">Dayandırma düyməsi</string>
+    <string name="keyguard_carrier_default">Xidmət yoxdur.</string>
+    <string name="keyguard_accessibility_status">Status</string>
+    <string name="kg_password_wrong_pin_code">Yanlış PİN kod.</string>
+</resources>

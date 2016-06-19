@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_previewa_menu_list">
+        <item>设定壁纸</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="lockscreen_previewa_menu_list">
+        <item>设定壁纸</item>
+        <item>取消</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">开机向导</string>
+    <string name="title_complete">欢迎使用</string>
+    <string name="xui_show_tv">同意 %1$s 和 %2$s</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="quick_settings">设置向导</string>
+    <string name="skip_setupwizard">直接进入桌面</string>
+    <string name="skip_btn">跳过</string>
+    <string name="continue_btn">继续</string>
+    <string name="title_mobiledata">移动数据</string>
+    <string name="title_fingerprinter">指纹</string>
+    <string name="fingerprint_explain">使用指纹来代替密码解锁</string>
+    <string name="add_fingerprint">添加指纹</string>
+    <string name="setupwizard_finish">手机设置成功</string>
+    <string name="start_to_use">进入桌面</string>
+    <string name="fingerprint_already_added">你已添加指纹</string>
+    <string name="next_step">下一步</string>
+</resources>

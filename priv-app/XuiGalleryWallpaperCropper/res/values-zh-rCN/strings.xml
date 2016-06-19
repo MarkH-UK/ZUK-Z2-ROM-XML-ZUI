@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">剪裁壁纸</string>
+    <string name="wallpaper_instructions">设置壁纸</string>
+    <string name="wallpaper_load_fail">无法加载要设为壁纸的图片</string>
+    <string name="move_and_scale">移动和缩放</string>
+    <string name="cancel">取消</string>
+    <string name="choose">选取</string>
+    <string name="set">设定</string>
+    <string name="setting_wallpaer">正在设定壁纸</string>
+    <string name="on_loading">正在加载图片</string>
+    <string name="setting_success">设置成功</string>
+</resources>

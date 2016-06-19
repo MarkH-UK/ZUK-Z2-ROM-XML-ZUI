@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="call_select_layout">false</item>
+    <item type="id" name="caller_name">false</item>
+    <item type="id" name="multi_sim_sub1">false</item>
+    <item type="id" name="carried_sub1">false</item>
+    <item type="id" name="count_down_text1">false</item>
+    <item type="id" name="count_down_sub1">false</item>
+    <item type="id" name="time_to_call_sub1">false</item>
+    <item type="id" name="multi_sim_sub2">false</item>
+    <item type="id" name="carried_sub2">false</item>
+    <item type="id" name="count_down_text2">false</item>
+    <item type="id" name="count_down_sub2">false</item>
+    <item type="id" name="time_to_call_sub2">false</item>
+    <item type="id" name="multi_sim_cancel_button">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="status_bar_latest_event_content_large_icon">false</item>
+    <item type="id" name="cancel_img">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="clicknow">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="respond_via_message_reset">false</item>
+</resources>

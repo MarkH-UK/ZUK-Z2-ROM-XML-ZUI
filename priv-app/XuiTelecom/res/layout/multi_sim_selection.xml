@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/call_select_layout" android:background="@color/multi_selection_bg_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="242.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="15.0sp" android:textColor="@color/multi_selection_title_color" android:ellipsize="end" android:gravity="center" android:id="@id/caller_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:singleLine="true" android:layout_alignParentTop="true" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="125.0dip" android:layout_marginTop="24.0dip" android:layout_below="@id/caller_name">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <ImageButton android:id="@id/multi_sim_sub1" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_sub1" />
+                <TextView android:textSize="12.0sp" android:textColor="#ff808080" android:id="@id/carried_sub1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.0dip" />
+                <LinearLayout android:orientation="horizontal" android:id="@id/count_down_text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/multi_selection_text_color" android:id="@id/count_down_sub1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="12.0sp" android:textColor="@color/multi_selection_text_color" android:id="@id/time_to_call_sub1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/make_call_then" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <ImageButton android:id="@id/multi_sim_sub2" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_sub2" />
+                <TextView android:textSize="12.0sp" android:textColor="#ff808080" android:id="@id/carried_sub2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.0dip" />
+                <LinearLayout android:orientation="horizontal" android:id="@id/count_down_text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/multi_selection_text_color" android:id="@id/count_down_sub2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="12.0sp" android:textColor="@color/multi_selection_text_color" android:id="@id/time_to_call_sub2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/make_call_then" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <Button android:textSize="15.0sp" android:textColor="@color/multi_selection_cancle_color" android:id="@id/multi_sim_cancel_button" android:background="@drawable/msim_cancel_background" android:layout_width="fill_parent" android:layout_height="52.0dip" android:text="@string/cancel" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

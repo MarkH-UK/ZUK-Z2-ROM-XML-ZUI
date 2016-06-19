@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>中文简体</item>
+        <item>中文繁體</item>
+        <item>English</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="set_wallpaper_button">false</item>
+    <item type="id" name="wallpaper_root">false</item>
+    <item type="id" name="cropView">false</item>
+    <item type="id" name="btnCropCancel">false</item>
+    <item type="id" name="btnCropConform">false</item>
+    <item type="id" name="fre_lay">false</item>
+    <item type="id" name="rel_lay">false</item>
+    <item type="id" name="imageview_photo_frame">false</item>
+    <item type="id" name="imageview_square">false</item>
+    <item type="id" name="lil_lay">false</item>
+    <item type="id" name="btnSetCancel">false</item>
+    <item type="id" name="btnSetConform">false</item>
+</resources>

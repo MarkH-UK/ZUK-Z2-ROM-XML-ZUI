@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>无主题</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>6 秒</item>
+        <item>7 秒</item>
+        <item>8 秒</item>
+        <item>9 秒</item>
+        <item>10 秒</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Sorry, I have a meeting now.</item>
+        <item>What are you doing?</item>
+        <item>Call you soon.</item>
+        <item>我在开会, 稍后回复您</item>
+        <item>有什么事吗？</item>
+        <item>现在不方便接电话，有事请留言。</item>
+    </string-array>
+    <string-array name="antispam_mode_list">
+        <item>只拦截黑名单</item>
+        <item>只接受联系人</item>
+        <item>只接受白名单</item>
+    </string-array>
+    <string-array name="antispam_endcall_mode_list">
+        <item>返回忙音</item>
+        <item>返回已关机</item>
+        <item>返回已停机</item>
+        <item>返回空号</item>
+    </string-array>
+    <string-array name="classifies">
+        <item>广告推销</item>
+        <item>疑似诈骗</item>
+        <item>骚扰电话</item>
+        <item>房产中介</item>
+        <item>快递送餐</item>
+    </string-array>
+    <string-array name="antispam_autoclean_period">
+        <item>7天</item>
+        <item>30天</item>
+    </string-array>
+</resources>

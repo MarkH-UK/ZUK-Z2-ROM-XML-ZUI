@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">用户保障</string>
+    <string name="fraud_insurance">诈骗赔付险</string>
+    <string name="thief_insurance">盗抢险</string>
+    <string name="policy_number_label">保单号</string>
+    <string name="begin_time_label">开始时间</string>
+    <string name="end_time_label">结束时间</string>
+    <string name="insurance_claims_label">理赔保障</string>
+    <string name="claims_guidelines_label">理赔指引</string>
+    <string name="fraud_insurance_claims">"单笔最高赔付6000元
+每月最多可申请2次赔付
+全年最高赔付15万元"</string>
+    <string name="fraud_claims_guidelines">"1.点击“申请赔付”进行报案
+2.填写如下信息：
+（1）点选被欺诈时间和诈骗短信
+（2）上传身份证、被欺诈的付款证明、支付记录、银行账单、当地公安机关报案的受理材料
+（3）被欺诈过程描述
+（4）填写申请人的姓名、身份证号、联系电话、接收理赔款的本人帐号。"</string>
+    <string name="thief_insurance_claims">手机因遭受抢劫或盗窃造成的损失</string>
+    <string name="thief_claims_guidelines">"理赔指引：
+1）出险后应第一时间向当地警方报案；
+2）向手机通讯运营商及时办理手机SIM卡挂失；
+3）拨打报案电话95522向保险公司报案，理赔服务人员将指引您完成理赔程序。"</string>
+    <string name="apply_claims">申请理赔</string>
+    <string name="choose_fraud_sms">选择诈骗短信</string>
+    <string name="register_prove">提交立案证明</string>
+    <string name="describe_tips">案情描述（不少于20字）</string>
+    <string name="submit">提交</string>
+    <string name="submit_tips">正在提交,请稍等...</string>
+    <string name="claim_apply">理赔申请</string>
+    <string name="apply_success">您的理赔申请成功</string>
+    <string name="claims_number">理赔单号:</string>
+    <string name="tips">提示:</string>
+    <string name="tips_context1">我们会在72小时内，通过手机、短信、或QQ与您取得联系！</string>
+    <string name="tips_context2">请您不要进行重装手机或删除短信的历史记录。</string>
+    <string name="complete">完成</string>
+    <string name="insurance_service">以上服务由泰康在线提供</string>
+    <string name="insurance_service_tell">24小时服务热线95522</string>
+    <string name="dialog_tips">提示</string>
+    <string name="dialog_no_net_tips1">首次需要网络操作，请连接网络！</string>
+    <string name="dialog_no_net_tips2">当前没有网络！</string>
+    <string name="dialog_setting_net_text">设置网络</string>
+    <string name="dialog_cancel_text">取消</string>
+    <string name="install_alipay">请安装支付宝应用</string>
+    <string name="sms_is_empty">当前系统中没有接收到的短消息！</string>
+    <string name="dialog_ok_text">确定</string>
+    <string name="dialog_describe_empty">案情描述不能为空</string>
+    <string name="dialog_describe_length">案情描述不能少于20字</string>
+    <string name="dialog_prove_img_empty">请选择立案证明截图</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sdac</string>
+    <string name="title_activity_main">sdac+</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="close">关闭</string>
+    <string name="textLoadError">加载失败，请检查网络状况再重试。</string>
+    <string name="reload">重新加载</string>
+    <string name="cns_label">系统通知</string>
+    <string name="open_app">打开</string>
+</resources>

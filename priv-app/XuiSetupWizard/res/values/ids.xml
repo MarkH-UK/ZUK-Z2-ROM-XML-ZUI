@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="locale" />
+    <item type="id" name="seperator" />
+    <item type="id" name="title_text" />
+    <item type="id" name="button_next" />
+    <item type="id" name="checkBox" />
+    <item type="id" name="complete_title">false</item>
+    <item type="id" name="tv_content">false</item>
+    <item type="id" name="fingerprinter_title">false</item>
+    <item type="id" name="mobile_data_title">false</item>
+    <item type="id" name="data_pre">false</item>
+    <item type="id" name="welcomepage">false</item>
+    <item type="id" name="btn_skip_setupwizard">false</item>
+    <item type="id" name="btn_quick_settings">false</item>
+    <item type="id" name="xui_police_show">false</item>
+    <item type="id" name="btn_next">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="actionbar_back_btn">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="actionbar_skip_btn">false</item>
+    <item type="id" name="face_iv">false</item>
+    <item type="id" name="title_schedule">false</item>
+    <item type="id" name="iv0">false</item>
+    <item type="id" name="iv1">false</item>
+    <item type="id" name="iv2">false</item>
+    <item type="id" name="iv3">false</item>
+    <item type="id" name="iv4">false</item>
+    <item type="id" name="forward">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="btn_skip">false</item>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_days_and_amount">
+        <item quantity="other">￥%2$s/%1$ddays</item>
+        <item quantity="one">￥%2$s/%1$dday</item>
+    </plurals>
+</resources>

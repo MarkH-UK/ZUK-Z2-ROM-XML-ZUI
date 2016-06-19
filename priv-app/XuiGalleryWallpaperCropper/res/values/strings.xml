@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Crop wallpaper</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="wallpaper_load_fail">"Couldn't load image as wallpaper"</string>
+    <string name="move_and_scale">Move and Scale</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+    <string name="set">Set</string>
+    <string name="setting_wallpaer">Setting wallpaper</string>
+    <string name="on_loading">Loading image…</string>
+    <string name="setting_success">Success</string>
+</resources>

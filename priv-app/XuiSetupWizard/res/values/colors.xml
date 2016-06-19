@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_text_color">#ff454545</color>
+    <color name="summray_text_color">#ffb3b3b3</color>
+    <color name="summary_text_color">#ff191919</color>
+    <color name="title_text">#ff333333</color>
+    <color name="xui_text_color">#ff1499f7</color>
+    <color name="notification_bg_color">#fff0f0f0</color>
+    <color name="preference_title">#ff333333</color>
+    <color name="background_color">#fffafafa</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">네트워크 위치</string>
+    <string name="location_warning_title">위치 정보 수집</string>
+    <string name="location_warning_message">NLP(Network Location Provider) 기능이 설치되어 사용 되었을 경우, 사용자는 익명의 위치정보를 얻기 위하여 AutoNavi 위치 서비스를 허용할 것입니다. 암호화된 정보들은 사용자의 휴대폰에 암호화 되어 저장될 것입니다. 때로는, 어떠한 응용프로그램이 실행되고 있지 않더라도 정보수집이 발생할수 있습니다. 사용자는 데이터 사용에 대하여 과금을 부과할 것입니다. 수집된 정보는 위치 측정이나 정확도 향상에 사용될 것입니다. 수집된 정보들이 서비스 제공을 제외한 다른 목적을 위하여 사용되지 않을 것을 약속합니다. 수집되는 데이터는 다음과 같습니다. 1. 주위로부터 수집된 WLAN AP의 ID와 신호세기. 2. 기지국 주위로부터 수집된 ID와 신호세기(GSM,CDMA).</string>
+    <string name="agree">동의함</string>
+    <string name="disagree">동의 안함</string>
+    <string name="location_warning_do_not_show_again">다시 표시 안함</string>
+    <string name="wifi_scan_always">항상 검색 허용</string>
+    <string name="wifi_scan_tips">WLAN이 해제된 경우에도, 네트워크 위치 서비스 및 애플리케이션에서 WLAN을 찾을 수 있도록 허용합니다.</string>
+    <string name="persmission_notification_title">네트워크 위치 권한이 필요</string>
+    <string name="persmission_notification_text">클릭 허용</string>
+    <string name="persmission_message">제대로 작동 하려면이 서비스에는 추가 권한이 필요 합니다. 사용 권한을 요청 하는 때 허용 하십시오.</string>
+    <string name="persmission_message2">제대로 작동 하려면이 서비스는 메모리 액세스 해야 합니다. 사용 권한을 요청 하는 때 허용 하십시오.</string>
+    <string name="persmission_message3">제대로 작동 하려면이 서비스는 위치 정보에 액세스 해야 합니다. 사용 권한을 요청 하는 때 허용 하십시오.</string>
+    <string name="persmission_message4">제대로 작동 하려면이 서비스는 전화 액세스 해야 합니다. 사용 권한을 요청 하는 때 허용 하십시오.</string>
+    <string name="persmission_message5">제대로 작동 하려면이 서비스에는 추가 권한이 필요 합니다. 수 있습니다 설정 관리 네트워크 위치 권한</string>
+    <string name="persmission_message6">제대로 작동 하려면이 서비스는 위치 정보에 액세스 해야 합니다. 수 있습니다 설정 관리 네트워크 위치 권한</string>
+    <string name="persmission_message7">제대로 작동 하려면이 서비스는 전화 액세스 해야 합니다. 수 있습니다 설정 관리 네트워크 위치 권한</string>
+    <string name="persmission_message8">제대로 작동 하려면이 서비스는 메모리 액세스 해야 합니다. 수 있습니다 설정 관리 네트워크 위치 권한</string>
+    <string name="persmission_ok">확인</string>
+    <string name="persmission_close">닫기</string>
+    <string name="persmission_settings">설정</string>
+</resources>

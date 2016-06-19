@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="preference_custom_min_height">52.0dip</dimen>
+    <dimen name="seperator_vertical_margin">96.0dip</dimen>
+    <dimen name="seperator_horizontal_margin">20.0dip</dimen>
+    <dimen name="text_view_info_vertical_margin">20.0dip</dimen>
+    <dimen name="text_view_info_horizontal_margin">20.0dip</dimen>
+</resources>

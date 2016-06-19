@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">用户保障</string>
+    <string name="fraud_insurance">诈骗赔付险</string>
+    <string name="thief_insurance">盗抢险</string>
+    <string name="phone_thief_insurance">手机盗抢险</string>
+    <string name="thief_bill_queryfail">您还没有买保险，查询失败！</string>
+    <string name="cid_number_label">身份证号</string>
+    <string name="policy_name_label">姓名</string>
+    <string name="policy_number_label">保单号</string>
+    <string name="begin_time_label">开始时间</string>
+    <string name="end_time_label">结束时间</string>
+    <string name="insurance_claims_label">理赔保障</string>
+    <string name="claims_guidelines_label">理赔指引</string>
+    <string name="fraud_insurance_claims">"单笔最高赔付6000元
+每月最多可申请2次赔付
+全年最高赔付15万元"</string>
+    <string name="fraud_claims_guidelines">"1.点击“申请赔付”进行报案
+2.填写如下信息：
+（1）点选被欺诈时间和诈骗短信
+（2）上传身份证、被欺诈的付款证明、支付记录、银行账单、当地公安机关报案的受理材料
+（3）被欺诈过程描述
+（4）填写申请人的姓名、身份证号、联系电话、接收理赔款的本人帐号。"</string>
+    <string name="thief_insurance_claims">手机因遭受抢劫或盗窃造成的损失</string>
+    <string name="thief_claims_guidelines">"理赔指引：
+1）出险后应第一时间向当地警方报案；
+2）向手机通讯运营商及时办理手机SIM卡挂失；
+3）拨打报案电话95522向保险公司报案，理赔服务人员将指引您完成理赔程序。"</string>
+    <string name="thief_claims_guide">"
+1）出险后应第一时间向当地警方报案；
+2）向手机通讯运营商及时办理手机SIM卡挂失；
+3）拨打报案电话95522向保险公司报案，理赔服务人员将指引您完成理赔程序。"</string>
+    <string name="claims_content">9.9元赔付1000元</string>
+    <string name="claims_content_high">16.9元赔付1799元</string>
+    <string name="apply_claims">申请理赔</string>
+    <string name="choose_fraud_sms">选择诈骗短信</string>
+    <string name="register_prove">提交立案证明</string>
+    <string name="describe_tips">案情描述（不少于20字）</string>
+    <string name="submit">提交</string>
+    <string name="submit_tips">正在提交,请稍等...</string>
+    <string name="claim_apply">理赔申请</string>
+    <string name="apply_success">您的理赔申请成功</string>
+    <string name="claims_number">理赔单号:</string>
+    <string name="tips">提示:</string>
+    <string name="tips_context1">我们会在72小时内，通过手机、短信、或QQ与您取得联系！</string>
+    <string name="tips_context2">请您不要进行重装手机或删除先赔通讯录的历史记录。</string>
+    <string name="complete">完成</string>
+    <string name="insurance_service">以上服务由泰康在线提供</string>
+    <string name="insurance_service_tell">24小时服务热线95522</string>
+    <string name="dialog_tips">提示</string>
+    <string name="dialog_no_net_tips1">首次需要网络操作，请连接网络！</string>
+    <string name="dialog_no_net_tips2">当前没有网络！</string>
+    <string name="dialog_setting_net_text">设置网络</string>
+    <string name="dialog_cancel_text">取消</string>
+    <string name="install_alipay">请安装支付宝应用</string>
+    <string name="purchase_insurance">购买</string>
+    <string name="insurance_service_word">24小时服务热线</string>
+    <string name="service_tell">95522</string>
+    <string name="insurance_price1">9.9元</string>
+    <string name="insurance_price2">16.9元</string>
+    <string name="insurance_compensate1">最高赔付1000元</string>
+    <string name="insurance_compensate2">最高赔付1799元</string>
+    <string name="insurance_ad">路遇歹徒手机被抢，逛商场手机被偷，走夜路手机被夺，手机成了手里的痛！别怕！有了ZUK手机防盗险的保护，再也不怕别人来盗抢手机！</string>
+    <string name="claim_flow_title">了解索赔流程</string>
+    <string name="continue_purchase">我已知晓，继续购买</string>
+    <string name="customer_name">姓名</string>
+    <string name="idetify_id">身份证号</string>
+    <string name="phone_num">手机号码</string>
+    <string name="verify_num">验证码</string>
+    <string name="purchase_now">立即投保</string>
+    <string name="text_first">"轻松透明来理赔，我来证明保险不是骗人滴！
+理赔证据注意点："</string>
+    <string name="text_second">1.手机被偷抢后，手机丢失24小时内一定要向警察蜀黍报案 ，并留存纸质报案证明。</string>
+    <string name="text_third">2.留存证据，证明手机是被偷抢，而不是莫名其妙的消失，请按照下面指示操作。</string>
+    <string name="pay_success">支付成功</string>
+    <string name="fraud_success">投保成功</string>
+    <string name="fraud_ad">"喜中大奖，家人急病，手机欠费，订单取消，代
+办文凭各种短信难辨真伪。一不小心可能上当，
+好可怕！别怕！神奇工场手机通讯录，实时为您
+拦截虚假短信就算中招被骗财务，神奇为您先
+行赔付。"</string>
+    <string name="fraud_sd_text">&lt;&lt;手机诈骗先行赔付保险条款>></string>
+    <string name="zuk_fraudclaims_text">&lt;&lt;神奇工厂诈骗赔付用户协议>></string>
+    <string name="and">和</string>
+    <string name="open_fraudclaims">开启防护</string>
+    <string name="thief_sd_text">&lt;&lt;手机盗抢先行赔付保险条款>></string>
+    <string name="zuk_thief_text">&lt;&lt;神奇工厂盗抢赔付用户协议>></string>
+    <string name="agree_text">我已阅读并同意</string>
+    <string name="claims_info_input">投保信息填写</string>
+    <string name="ctcc_fraud_text">电信诈骗险</string>
+    <string name="claims_guide_introduction">"如果发生保险事故，请按照以下流程报案：
+1.通过诈骗赔付保险页面申请赔付。
+2.填写如下信息：
+ （1）被诈骗时间，诈骗过程描述。
+ （2）真实准确有效的个人基本信息：
+ 包括申请人真实姓名、联系电话、接收理赔的银行卡相关信息、身份证明。
+ （3）被诈骗的付款证明、支付记录、银行账单。
+ （4）当地公安机关报案的受理 材料。
+"</string>
+    <string name="review_claims_progress">查看理赔进度</string>
+    <string name="user_read_guide">请阅读下文后按边框外退出</string>
+    <string name="user_input_guide">"请输入正确用户信息（姓名，身份证号，电话）。
+如您购买过一次本保险将不能重复购买！"</string>
+    <string name="user_phone_verify">该手机号不存在</string>
+    <string name="user_idetify_code">该身份证号不合法</string>
+    <string name="name_check_alert1">姓名不能为空</string>
+    <string name="name_check_alert2">姓名过长</string>
+    <string name="id_check_alert">身份证号不能为空</string>
+    <string name="phone_check_alert">电话号码不能为空</string>
+    <string name="read_zuk_std">请阅读保险条款并勾选复选框</string>
+    <string name="submit_erro_alert">信息输入有误，请重新输入</string>
+    <string name="submit_only_once">"如你已购买该保险限额，请勿重复购买。
+保险款支付不成功！"</string>
+    <string name="pay_failure">支付失败</string>
+    <string name="pay_nosuch_order">"后台出单不成功!
+请联系泰康在线服务中心；
+24小时服务热线95522。"</string>
+    <string name="nosuch_order_redo">网络问题，出单失败，请补单!</string>
+    <string name="fraud_claim_pay">诈骗赔付险</string>
+    <string name="name_check_standard">姓名只能2~7个中文或者3~10个英文字母</string>
+    <string name="pay_reissue_order">立即补单</string>
+    <string name="reorder_fail">"补单不成功!请重新补单!
+也可联系泰康在线人工补单；
+24小时服务热线95522。"</string>
+    <string name="zuk_hanset_info_agree">并且同意获取该设备信息</string>
+    <string name="budan_sucess">补单成功</string>
+    <string name="alert_reissue">"补单失败!
++请重新补单!
+也可联系泰康在线人工补单；
+24小时服务热线95522。"</string>
+    <string name="fraud_sms_ignore">无诈骗短信申请理赔</string>
+    <string name="claim_max">您本月已申请理赔两次，不能继续申请。</string>
+    <string name="view_purchase">查看已经购买保险保单</string>
+</resources>

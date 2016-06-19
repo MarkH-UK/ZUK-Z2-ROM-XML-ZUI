@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">网络位置</string>
+    <string name="location_warning_title">提示</string>
+    <string name="location_warning_message">"打开高德网络定位服务功能后，您将允许高德的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也可能会加密并收集此类数据。当加密收集数据时可能会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，高德承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括：
+- 所要测量的周边WLAN AP的ID、信号强度信息
+- 所要测量的周边基站的ID、信号强度信息（GSM网的情况）
+- 所要测量的周边基站的ID、信号强度信息（CDMA网的情况）。"</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="location_warning_do_not_show_again">不再显示</string>
+    <string name="wifi_scan_always">总是允许扫描</string>
+    <string name="wifi_scan_tips">即使在WLAN关闭时，也允许网络定位服务和应用程序扫描WLAN。</string>
+    <string name="persmission_notification_title">网络位置需要权限</string>
+    <string name="persmission_notification_text">点击允许</string>
+    <string name="persmission_message">为了能正常工作，此服务需要额外的权限。请在服务请求权限时允许。</string>
+    <string name="persmission_message2">为了能正常工作，此服务需要访问您的存储空间。请在服务请求权限时允许。</string>
+    <string name="persmission_message3">为了能正常工作，此服务需要访问您的位置。请在服务请求权限时允许。</string>
+    <string name="persmission_message4">为了能正常工作，此服务需要访问您的电话。请在服务请求权限时允许。</string>
+    <string name="persmission_message5">为了能正常工作，此服务需要额外的权限。您可以在设置中管理网络位置的权限。</string>
+    <string name="persmission_message6">为了能正常工作，此服务需要访问您的位置。您可以在设置中管理网络位置的权限。</string>
+    <string name="persmission_message7">为了能正常工作，此服务需要访问您的电话。您可以在设置中管理网络位置的权限。</string>
+    <string name="persmission_message8">为了能正常工作，此服务需要访问您的存储空间。您可以在设置中管理网络位置的权限。</string>
+    <string name="persmission_ok">确定</string>
+    <string name="persmission_close">关闭</string>
+    <string name="persmission_settings">设置</string>
+</resources>

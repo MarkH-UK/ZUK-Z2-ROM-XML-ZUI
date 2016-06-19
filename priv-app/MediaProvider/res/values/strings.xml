@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Media Storage</string>
+    <string name="artist_label">Artist</string>
+    <string name="ringtone_default">Default ringtone</string>
+    <string name="notification_sound_default">Default notification sound</string>
+    <string name="alarm_sound_default">Default alarm sound</string>
+    <string name="root_images">Images</string>
+    <string name="root_videos">Videos</string>
+    <string name="root_audio">Audio</string>
+    <string name="ringtone_silent">None</string>
+    <string name="call_ringtone">Call Ringtone</string>
+    <string name="short_message">SMS Ringtone</string>
+    <string name="notification">Notification Sound</string>
+    <string name="pick_from_music">Choose From Music</string>
+    <string name="pick_from_recorder">Choose From Recorder</string>
+    <string name="null_string" />
+    <string name="no_ringtone">No ringtone</string>
+    <string name="no_music">No music</string>
+    <string name="no_record">No record</string>
+    <string name="no_audio">No audio</string>
+</resources>

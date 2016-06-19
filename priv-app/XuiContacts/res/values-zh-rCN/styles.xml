@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="XPeopleActivityTheme" parent="@style/PeopleTheme">
+        <item name="android:windowBackground">@drawable/x_dialer_loading_cn</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">@color/x_background_actionbar</item>
+    </style>
+</resources>

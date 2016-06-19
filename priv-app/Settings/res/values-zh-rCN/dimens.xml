@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="noise_slider_margin">6.0sp</dimen>
+</resources>

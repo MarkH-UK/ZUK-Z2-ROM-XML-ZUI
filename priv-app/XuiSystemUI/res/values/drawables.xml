@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="notify_button_normal">#ffffffff</item>
+    <item type="drawable" name="notify_button_pressed">#ff696969</item>
+    <item type="drawable" name="button_focused">#ff58b871</item>
+    <item type="drawable" name="button_pressed">#ff0a6925</item>
+    <item type="drawable" name="button_default_focused">#ff6fc613</item>
+    <item type="drawable" name="button_default_pressed">#ff4ca800</item>
+    <item type="drawable" name="button_default2_focused">#33ffffff</item>
+    <item type="drawable" name="button_default2_pressed">#ff6fc613</item>
+    <item type="drawable" name="stat_sys_warning">@android:drawable/stat_sys_warning</item>
+    <item type="drawable" name="ic_contact_picture">@android:drawable/cab_background_bottom_holo_dark</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
+    <item type="drawable" name="system_bar_background">@color/system_bar_background_opaque</item>
+    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">#ff090909</item>
+    <item type="drawable" name="recents_callout_line">#99ffffff</item>
+    <item type="drawable" name="heads_up_notification_bg_pressed">#ff33b5e5</item>
+    <item type="drawable" name="recent_panel_bg">#53121212</item>
+    <item type="drawable" name="translucent_background">#80000000</item>
+    <item type="drawable" name="lenovo_notify_panel_header">#4d000000</item>
+    <item type="drawable" name="lenovo_bg_all_switch_gausscian">#4d000000</item>
+    <item type="drawable" name="lenovo_notifications_bg_gausscian">#00000000</item>
+</resources>

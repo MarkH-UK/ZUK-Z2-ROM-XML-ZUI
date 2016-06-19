@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">系统将删除 %1$s 个会话。</item>
+        <item quantity="one">系统将删除 1 个会话。</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的搜索结果</item>
+        <item quantity="one">%1$s 条符合“%2$s”的搜索结果</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s 条其他短信</item>
+        <item quantity="one">+%1$s 条其他短信</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s人</item>
+    </plurals>
+    <plurals name="edit_model_select_conv">
+        <item quantity="other">已选择%d条会话</item>
+        <item quantity="zero">选择会话</item>
+    </plurals>
+    <plurals name="edit_model_select_sms">
+        <item quantity="other">已选择%d条短信</item>
+        <item quantity="zero">选择短信</item>
+    </plurals>
+    <plurals name="edit_model_select_card">
+        <item quantity="other">已选择%d张卡券</item>
+        <item quantity="zero">选择卡券</item>
+    </plurals>
+    <plurals name="few_minutes_before">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+</resources>

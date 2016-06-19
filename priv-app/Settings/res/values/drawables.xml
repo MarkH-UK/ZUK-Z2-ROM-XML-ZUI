@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="btn_sort_pressed">#fff1f1f1</item>
+    <item type="drawable" name="btn_sort_normal">#fffafafa</item>
+    <item type="drawable" name="empty">#00ffffff</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="translucent">#70000000</item>
+    <item type="drawable" name="mask">#80ffffff</item>
+    <item type="drawable" name="bg_bottom_operation_item">#ffebebeb</item>
+    <item type="drawable" name="bg_bottom_operation_space">#ffcdcdcd</item>
+    <item type="drawable" name="bg_bottom_operation_disable">#ffffffff</item>
+    <item type="drawable" name="bg_operation_item_normal">#ffbebebe</item>
+    <item type="drawable" name="bg_operation_item_pressed">#ff252e3b</item>
+    <item type="drawable" name="bg_list_item_normal">#ffffffff</item>
+    <item type="drawable" name="bg_more_panel_normal">#ff252e3b</item>
+    <item type="drawable" name="bg_more_panel_pressed">#ff2ca64b</item>
+    <item type="drawable" name="bg_more_panel_space">#ff202734</item>
+    <item type="drawable" name="bg_btn_green_normal">#ff2ca64b</item>
+    <item type="drawable" name="bg_btn_green_pressed">#ff7cc68d</item>
+    <item type="drawable" name="bg_btn_green_disable">#ffcdcdcd</item>
+    <item type="drawable" name="bg_bottom_cancel_normal">#ffbcbcbc</item>
+    <item type="drawable" name="bg_bottom_cancel_pressed">#ff7e7e7e</item>
+    <item type="drawable" name="trans_frag_tab_enable_drawable">#ff455469</item>
+    <item type="drawable" name="list_divider_color">#ffdfe1dc</item>
+</resources>

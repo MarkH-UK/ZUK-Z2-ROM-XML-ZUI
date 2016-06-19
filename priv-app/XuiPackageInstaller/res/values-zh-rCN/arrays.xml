@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>由系统确定</item>
+        <item>设备内存</item>
+        <item>可卸载的 SD 卡</item>
+    </string-array>
+    <string-array name="custom_perms_titel">
+        <item>我不懂，由系统自动处理</item>
+        <item>使用权限前询问我</item>
+        <item>我信任“%1$s”，授予所有申请权限</item>
+        <item>我是专家，自己来</item>
+    </string-array>
+    <string-array name="app_permission_category">
+        <item>资费相关</item>
+        <item>隐私相关</item>
+        <item>多媒体相关</item>
+        <item>设置相关</item>
+    </string-array>
+    <string-array name="app_permission_operate">
+        <item>允许</item>
+        <item>询问</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>允许</item>
+        <item>禁止</item>
+        <item>询问</item>
+        <item>未知</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>允许</item>
+        <item>询问</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>允许</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>定位</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>Vibrate</item>
+        <item>访问联系人</item>
+        <item>访问联系人</item>
+        <item>访问通话记录</item>
+        <item>访问通话记录</item>
+        <item>访问日历</item>
+        <item>访问日历</item>
+        <item>定位</item>
+        <item>Post notification</item>
+        <item>定位</item>
+        <item>拔打电话</item>
+        <item>访问短信记录</item>
+        <item>访问短信记录</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>发送短信</item>
+        <item>访问短信记录</item>
+        <item>访问短信记录</item>
+        <item>修改系统设置</item>
+        <item>显示悬浮窗</item>
+        <item>Access notifications</item>
+        <item>打开摄像头</item>
+        <item>打开录音</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>开启Wi-Fi</item>
+        <item>开启蓝牙</item>
+        <item>发送彩信</item>
+        <item>访问彩信记录</item>
+        <item>访问彩信记录</item>
+        <item>应用自启</item>
+        <item>Nfc change</item>
+        <item>访问短信记录</item>
+        <item>访问彩信记录</item>
+        <item>访问联系人</item>
+        <item>访问通话记录</item>
+        <item>开启移动网络</item>
+        <item>获取设备信息</item>
+        <item>在桌面上创建快捷方式</item>
+        <item>访问相册</item>
+        <item>读取手机号</item>
+        <item>Write WallPaper</item>
+        <item>Assist Structure</item>
+        <item>Assist ScreenShot</item>
+        <item>Read Phone State</item>
+        <item>Add Voice Mail</item>
+        <item>Use Sip</item>
+        <item>Process Outgoing Calls</item>
+        <item>Use FingerPrint</item>
+        <item>使用传感器</item>
+        <item>Read Cell Broadcasts</item>
+        <item>Mock Location</item>
+        <item>读存储设备</item>
+        <item>写存储设备</item>
+        <item>Turn Screen On</item>
+        <item>读取帐号信息</item>
+    </string-array>
+    <string-array name="perms_category">
+        <item>资费相关</item>
+        <item>隐私相关</item>
+        <item>多媒体相关</item>
+        <item>设置相关</item>
+    </string-array>
+    <string-array name="install_location_choose">
+        <item>手机存储</item>
+        <item>SD卡</item>
+    </string-array>
+</resources>

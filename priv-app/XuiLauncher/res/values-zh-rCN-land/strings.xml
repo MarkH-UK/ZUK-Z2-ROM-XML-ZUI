@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_local">本地</string>
+    <string name="local_restore">本地恢复</string>
+    <string name="local_backup">本地备份</string>
+    <string name="lastest_backup_tips">上次备份时间：%s</string>
+    <string name="profile_backup_title">保存场景</string>
+    <string name="restore_theme_settings_title">恢复上次备份桌面</string>
+    <string name="profile_backuping_progress_info">桌面备份中, 请稍候</string>
+    <string name="profile_applying_progress_info">桌面应用中, 请稍候</string>
+    <string name="apply_profile">恢复备份</string>
+    <string name="no_profile_num">未保存任何场景</string>
+    <string name="delete_target_label" />
+    <string name="delete_target_uninstall_label" />
+    <string name="info_target_label" />
+    <string name="profile_selection_settings">备份当前乐桌面设置项</string>
+    <string name="add_profile_name_save">保存</string>
+    <string name="add_profile_cancel">取消</string>
+    <string name="profile_save_profile_ok">桌面备份成功</string>
+    <string name="profile_apply_profile_ok">应用桌面成功</string>
+    <string name="profile_apply_profile_fail">应用桌面失败</string>
+</resources>

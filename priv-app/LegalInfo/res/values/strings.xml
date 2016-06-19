@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LegalInfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="privacy_policy">Privacy Policy</string>
+</resources>

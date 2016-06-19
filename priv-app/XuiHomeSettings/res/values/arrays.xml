@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_previewa_menu_list">
+        <item>set wallpaper</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="lockscreen_previewa_menu_list">
+        <item>set wallpaper</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_000</item>
+        <item>wallpaper_001</item>
+        <item>wallpaper_002</item>
+        <item>wallpaper_003</item>
+        <item>wallpaper_006</item>
+        <item>wallpaper_007</item>
+        <item>wallpaper_008</item>
+        <item>wallpaper_009</item>
+        <item>wallpaper_010</item>
+        <item>wallpaper_011</item>
+        <item>wallpaper_012</item>
+        <item>wallpaper_013</item>
+        <item>wallpaper_014</item>
+        <item>wallpaper_015</item>
+        <item>wallpaper_016</item>
+        <item>wallpaper_017</item>
+        <item>wallpaper_018</item>
+        <item>wallpaper_019</item>
+        <item>wallpaper_020</item>
+    </string-array>
+    <string-array name="wallpapers_plus">
+        <item>wallpaper_001</item>
+        <item>wallpaper_000</item>
+        <item>wallpaper_002</item>
+        <item>wallpaper_003</item>
+        <item>wallpaper_006</item>
+        <item>wallpaper_007</item>
+        <item>wallpaper_008</item>
+        <item>wallpaper_009</item>
+        <item>wallpaper_010</item>
+        <item>wallpaper_011</item>
+        <item>wallpaper_012</item>
+        <item>wallpaper_013</item>
+        <item>wallpaper_014</item>
+        <item>wallpaper_015</item>
+        <item>wallpaper_016</item>
+        <item>wallpaper_017</item>
+        <item>wallpaper_018</item>
+        <item>wallpaper_019</item>
+        <item>wallpaper_020</item>
+    </string-array>
+</resources>

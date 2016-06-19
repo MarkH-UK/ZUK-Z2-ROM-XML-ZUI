@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SetupWizardTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="TopImageViewStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TitleTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+    </style>
+    <style name="MiddleTextStyle">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="NextTextStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="FinishTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+</resources>

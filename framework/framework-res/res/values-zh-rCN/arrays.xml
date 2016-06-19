@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>个人</item>
+        <item>工作</item>
+        <item>其他</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>中国雅虎</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>单位</item>
+        <item>其他</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>住宅</item>
+        <item>手机</item>
+        <item>单位</item>
+        <item>单位传真</item>
+        <item>住宅传真</item>
+        <item>寻呼机</item>
+        <item>其他</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>住宅</item>
+        <item>单位</item>
+        <item>其他</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>正在尝试定位</item>
+        <item>正在尝试定位</item>
+        <item>正在尝试定位</item>
+        <item>试图使用震动器</item>
+        <item>正在尝试访问联系人</item>
+        <item>正在尝试访问联系人</item>
+        <item>正在尝试访问通话记录</item>
+        <item>正在尝试访问通话记录</item>
+        <item>正在尝试访问日历</item>
+        <item>正在尝试访问日历</item>
+        <item>正在尝试定位</item>
+        <item>试图发出通知</item>
+        <item>正在尝试定位</item>
+        <item>正在尝试拨打电话</item>
+        <item>正在尝试访问短信记录</item>
+        <item>正在尝试访问短信记录</item>
+        <item>试图收取短信</item>
+        <item>试图收取短信</item>
+        <item>试图收取彩信</item>
+        <item>试图收取短信</item>
+        <item>试图发送短信</item>
+        <item>正在尝试访问短信记录</item>
+        <item>正在尝试访问短信记录</item>
+        <item>正在尝试修改设置</item>
+        <item>试图在顶层绘图</item>
+        <item>试图获取通知</item>
+        <item>正在尝试打开摄像头</item>
+        <item>正在尝试录音</item>
+        <item>试图放音</item>
+        <item>试图读取剪贴板</item>
+        <item>试图修改剪贴板</item>
+        <item>试图控制多媒体按钮</item>
+        <item>试图控制音频焦点</item>
+        <item>试图控制主音量</item>
+        <item>试图控制语音音量</item>
+        <item>试图控制铃声音量</item>
+        <item>试图控制多媒体音量</item>
+        <item>试图控制闹钟音量</item>
+        <item>试图控制通知音量</item>
+        <item>试图控制蓝牙音量</item>
+        <item>试图阻止手机休眠</item>
+        <item>正在尝试定位</item>
+        <item>正在尝试定位</item>
+        <item>试图获取使用情况统计信息</item>
+        <item>试图使麦克风静音</item>
+        <item>试图弹出提示窗口</item>
+        <item>试图投影媒体</item>
+        <item>试图激活VPN</item>
+        <item>正在尝试开启WIFI</item>
+        <item>正在尝试开启蓝牙</item>
+        <item>正在尝试发送彩信</item>
+        <item>正在尝试访问彩信记录</item>
+        <item>正在尝试访问彩信记录</item>
+        <item>试图自启动</item>
+        <item>试图开关NFC</item>
+        <item>正在尝试访问短信记录</item>
+        <item>正在尝试访问彩信记录</item>
+        <item>正在尝试访问联系人</item>
+        <item>正在尝试访问通话记录</item>
+        <item>正在尝试开启移动网络</item>
+        <item>正在尝试获取设备信息</item>
+        <item>正在尝试创建桌面快捷方式</item>
+        <item>正在尝试访问相册数据</item>
+        <item>正在尝试读取手机号</item>
+        <item>" is trying to write wallpaper"</item>
+        <item>" is trying to assist structure"</item>
+        <item>" is trying to assist screenshot"</item>
+        <item>" is trying to read phone state"</item>
+        <item>" is trying to add voicemail"</item>
+        <item>" is trying to use sip"</item>
+        <item>" is trying to process outgoing calls"</item>
+        <item>" is trying to use fingerprint"</item>
+        <item>正在尝试使用传感器</item>
+        <item>" is trying to read cell broadcasts"</item>
+        <item>" is trying to mock location"</item>
+        <item>正在尝试读存储设备</item>
+        <item>正在尝试写存储设备</item>
+        <item>" is trying to turn screen on"</item>
+        <item>正在尝试读取账号信息</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>39937795</item>
+        <item>116387224</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <array name="wfcOperatorErrorAlertMessages" />
+    <array name="wfcOperatorErrorNotificationMessages" />
+    <array name="fingerprint_acquired_vendor" />
+    <string-array name="fingerprint_error_vendor">
+        <item>锁屏应用正在使用指纹校验</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>住宅</item>
+        <item>工作</item>
+        <item>其他</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="app_ops_name">
+        <item>定位</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>试图使用震动器</item>
+        <item>访问联系人</item>
+        <item>访问联系人</item>
+        <item>访问通话记录</item>
+        <item>访问通话记录</item>
+        <item>访问日历</item>
+        <item>访问日历</item>
+        <item>定位</item>
+        <item>试图发出通知</item>
+        <item>定位</item>
+        <item>拨打电话</item>
+        <item>访问短信记录</item>
+        <item>访问短信记录</item>
+        <item>试图收取短信</item>
+        <item>试图收取短信</item>
+        <item>试图收取彩信</item>
+        <item>试图收取短信</item>
+        <item>试图发送短信</item>
+        <item>访问短信记录</item>
+        <item>访问短信记录</item>
+        <item>修改设置</item>
+        <item>试图在顶层绘图</item>
+        <item>试图获取通知</item>
+        <item>打开摄像头</item>
+        <item>录音</item>
+        <item>试图放音</item>
+        <item>试图读取剪贴板</item>
+        <item>试图修改剪贴板</item>
+        <item>试图控制多媒体按钮</item>
+        <item>试图控制音频焦点</item>
+        <item>试图控制主音量</item>
+        <item>试图控制语音音量</item>
+        <item>试图控制铃声音量</item>
+        <item>试图控制多媒体音量</item>
+        <item>试图控制闹钟音量</item>
+        <item>试图控制通知音量</item>
+        <item>试图控制蓝牙音量</item>
+        <item>试图阻止手机休眠</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>试图获取使用情况统计信息</item>
+        <item>试图使麦克风静音</item>
+        <item>试图弹出提示窗口</item>
+        <item>试图投影媒体</item>
+        <item>试图激活VPN</item>
+        <item>开启WIFI</item>
+        <item>开启蓝牙</item>
+        <item>发送彩信</item>
+        <item>访问彩信记录</item>
+        <item>访问彩信记录</item>
+        <item>试图自启动</item>
+        <item>试图开关NFC</item>
+        <item>访问短信记录</item>
+        <item>访问彩信记录</item>
+        <item>访问联系人</item>
+        <item>访问通话记录</item>
+        <item>开启移动网络</item>
+        <item>获取设备信息</item>
+        <item>创建桌面快捷方式</item>
+        <item>访问相册数据</item>
+        <item>读取手机号码</item>
+        <item>Write WallPaper</item>
+        <item>Assist Structure</item>
+        <item>Assist ScreenShot</item>
+        <item>Read Phone State</item>
+        <item>Add Voice Mail</item>
+        <item>Use Sip</item>
+        <item>Process Outgoing Calls</item>
+        <item>Use FingerPrint</item>
+        <item>使用传感器</item>
+        <item>Read Cell Broadcasts</item>
+        <item>Mock Location</item>
+        <item>读存储设备</item>
+        <item>写存储设备</item>
+        <item>Turn Screen On</item>
+        <item>读取账号信息</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="datePickerXMonth">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>

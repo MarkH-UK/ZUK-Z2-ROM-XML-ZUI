@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tips_begin_long_screenshot_view_width">131.0dip</dimen>
+    <dimen name="tips_long_screenshot_firstshow_view_width">177.0dip</dimen>
+    <dimen name="tips_long_screenshot_firstshow_view_height">48.0dip</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_color">#ff0288d1</color>
+    <color name="dialer_settings_actionbar_text_color">#ffffffff</color>
+    <color name="dialer_settings_actionbar_background_color">@color/theme_color</color>
+    <color name="dialer_settings_color_dark">#ff0277bd</color>
+    <color name="dialtacts_secondary_text_color">#ff737373</color>
+    <color name="multi_sim_choose_text_color">#ffe74a1a</color>
+    <color name="action_bar_bg_light">#fff0f0f0</color>
+    <color name="action_bar_bg_dark">#ff131419</color>
+    <color name="multi_sim_pressed">#60000000</color>
+    <color name="colorbackground">#ffededed</color>
+    <color name="msim_cancel_bg_normal">#fffafafa</color>
+    <color name="msim_cancel_bg_pressed">#fff1f1f1</color>
+    <color name="multi_selection_bg_color">#fffafafa</color>
+    <color name="multi_selection_title_color">#ff191919</color>
+    <color name="multi_selection_text_color">#ffe74a1a</color>
+    <color name="multi_selection_cancle_color">#ff1499f7</color>
+    <color name="multi_selection_seperate_line_color">#ffe0e0e0</color>
+    <color name="x_icon_color_actionbar">#ff000000</color>
+</resources>

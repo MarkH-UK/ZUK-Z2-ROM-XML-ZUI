@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="suwTransitionDuration">300</integer>
+    <integer name="maximum_user_dictionary_word_length">48</integer>
+    <integer name="dashboard_num_columns">1</integer>
+    <integer name="wifi_edit_preference_text_weight">1</integer>
+    <integer name="wifi_edit_preference_edit_weight">3</integer>
+    <integer name="setup_wizard_transition_duration">300</integer>
+    <integer name="preferences_left_pane_weight">4</integer>
+    <integer name="preferences_right_pane_weight">6</integer>
+    <integer name="sim_name_length">32</integer>
+    <integer name="bluetooth_name_length">248</integer>
+    <integer name="fp_svg_viewport_width">456</integer>
+    <integer name="fp_svg_viewport_height">702</integer>
+    <integer name="fp_enrol_line_anim_duration">500</integer>
+    <integer name="fp_enrol_vibrator_duration">100</integer>
+    <integer name="fp_enrol_vibrator_postdelay">300</integer>
+    <integer name="fp_scale_smaller_duration">500</integer>
+    <integer name="fp_scale_bigger_duration">500</integer>
+    <integer name="enrol_tooltip_anim_duration_0_to_1">300</integer>
+    <integer name="enrol_tooltip_anim_duration_1_to_0">300</integer>
+    <integer name="fp_line_width">4</integer>
+    <integer name="four_pin_display_number_duration">500</integer>
+    <integer name="four_pin_password_error_shake_duration">100</integer>
+    <integer name="four_pin_password_error_shake_repeat_count">4</integer>
+    <integer name="preference_scrollbar_style">33554432</integer>
+</resources>

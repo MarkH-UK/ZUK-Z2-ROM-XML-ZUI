@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:orientation="vertical" android:id="@id/statusbar_stub_view" android:background="@color/title_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="18.0dip" />
+    <include android:id="@id/title_bar" layout="@layout/title" />
+    <ProgressBar android:id="@id/show_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <WebView android:id="@id/show_fraud_web" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title_bar" />
+    <include android:id="@id/claims_apply_info" layout="@layout/claims_apply_info" />
+</RelativeLayout>

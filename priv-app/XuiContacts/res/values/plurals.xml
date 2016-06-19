@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts with phone numbers</item>
+        <item quantity="one">1 contact with phone number</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">merged from %0$d sources</item>
+        <item quantity="one">not merged</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groups</item>
+        <item quantity="one">1 group</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d people from %2$s</item>
+        <item quantity="one">%1$d person from %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="selected_calllog_item_counts">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="group_member_number">
+        <item quantity="other">%d persons</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="selected_edit_calllog_item_counts">
+        <item quantity="other">%ditems</item>
+        <item quantity="one">%ditem</item>
+    </plurals>
+    <plurals name="call_calllog_DurationBells">
+        <item quantity="other">Rang %s second(s)</item>
+        <item quantity="one">Rang %s second</item>
+    </plurals>
+</resources>

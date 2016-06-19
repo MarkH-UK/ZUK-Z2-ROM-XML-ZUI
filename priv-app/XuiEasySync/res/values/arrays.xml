@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_backup_agent">
+        <item>com.lenovo.desktop</item>
+    </string-array>
+    <string-array name="yellow_page_numbers">
+        <item>95588</item>
+        <item>95566</item>
+        <item>95533</item>
+        <item>95599</item>
+        <item>95559</item>
+        <item>95580</item>
+        <item>4008108866</item>
+        <item>95555</item>
+        <item>95561</item>
+        <item>95558</item>
+        <item>95595</item>
+        <item>95568</item>
+        <item>4008308003</item>
+        <item>95577</item>
+        <item>95528</item>
+        <item>95501</item>
+        <item>96511</item>
+        <item>95526</item>
+        <item>95537</item>
+        <item>96666</item>
+        <item>4006996666</item>
+        <item>960296</item>
+        <item>4006129999</item>
+        <item>95105757</item>
+        <item>4008096019</item>
+        <item>4008888883</item>
+        <item>96758</item>
+        <item>02996779</item>
+        <item>02996669</item>
+        <item>96779</item>
+        <item>96669</item>
+        <item>96067</item>
+        <item>020962888</item>
+        <item>962888</item>
+        <item>4008896588</item>
+        <item>4008888508</item>
+        <item>4008939999</item>
+        <item>4001196033</item>
+        <item>8677196288</item>
+        <item>96511</item>
+        <item>0221910025</item>
+        <item>0800025168</item>
+        <item>8008302880</item>
+        <item>95508</item>
+        <item>96169</item>
+        <item>01096169</item>
+        <item>96569</item>
+        <item>95511</item>
+        <item>96588</item>
+    </string-array>
+</resources>

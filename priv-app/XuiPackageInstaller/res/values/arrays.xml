@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Let the system decide</item>
+        <item>Internal device storage</item>
+        <item>Removable SD card</item>
+    </string-array>
+    <string-array name="custom_perms_titel">
+        <item>Manage the permission by system</item>
+        <item>Ask me before granting permissions</item>
+        <item>Trust\"%1$s\"</item>
+        <item>Advanced Setting</item>
+    </string-array>
+    <string-array name="app_permission_category">
+        <item>Fee-related</item>
+        <item>Privacy-related</item>
+        <item>Multimedia-related</item>
+        <item>Settings-related</item>
+    </string-array>
+    <string-array name="app_permission_operate">
+        <item>Accept</item>
+        <item>Prompt</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>Accept</item>
+        <item>Deny</item>
+        <item>Prompt</item>
+        <item>Unknow</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>Accept</item>
+        <item>Prompt</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>Accept</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Vibrate</item>
+        <item>Access Contacts</item>
+        <item>Access Contacts</item>
+        <item>Access Call Logs</item>
+        <item>Access Call Logs</item>
+        <item>Access Calendar</item>
+        <item>Access Calendar</item>
+        <item>Determine Location</item>
+        <item>Post notification</item>
+        <item>Determine Location</item>
+        <item>Make Calls</item>
+        <item>Access SMS Records</item>
+        <item>Access SMS Records</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Access SMS Records</item>
+        <item>Access SMS Records</item>
+        <item>Modify System Settings</item>
+        <item>Display Floating Window</item>
+        <item>Access notifications</item>
+        <item>Turn On Camera</item>
+        <item>Turn On Voice Recorder</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Determine Location</item>
+        <item>Determine Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>Open Wi-Fi</item>
+        <item>Turn On Bluetooth</item>
+        <item>Send SMS</item>
+        <item>Access MMS Records</item>
+        <item>Access MMS Records</item>
+        <item>Autostart Apps</item>
+        <item>Nfc Change</item>
+        <item>Access SMS Records</item>
+        <item>Access MMS Records</item>
+        <item>Access Contacts</item>
+        <item>Access Call Logs</item>
+        <item>Turn On Mobile Network</item>
+        <item>Get Device Information</item>
+        <item>Create Desktop Shortcut</item>
+        <item>Access-related</item>
+        <item>Retreive Phone Number</item>
+        <item>Write WallPaper</item>
+        <item>Assist Structure</item>
+        <item>Assist ScreenShot</item>
+        <item>Read Phone State</item>
+        <item>Add Voice Mail</item>
+        <item>Use Sip</item>
+        <item>Process Outgoing Calls</item>
+        <item>Use FingerPrint</item>
+        <item>Users Sensors</item>
+        <item>Read Cell Broadcasts</item>
+        <item>Mock Location</item>
+        <item>Read Local Storage</item>
+        <item>Write Local Storage</item>
+        <item>Turn Screen On</item>
+        <item>Access Account Details</item>
+    </string-array>
+    <string-array name="perms_category">
+        <item>Fee-related</item>
+        <item>Privacy-related</item>
+        <item>Multimedia-related</item>
+        <item>Settings-related</item>
+    </string-array>
+    <string-array name="install_location_choose">
+        <item>手机存储</item>
+        <item>SD card</item>
+    </string-array>
+</resources>
