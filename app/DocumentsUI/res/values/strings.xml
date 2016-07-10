@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Documents</string>
-    <string name="title_open">Open from</string>
-    <string name="title_save">Save to</string>
+    <string name="title_open">Open</string>
+    <string name="title_save">Save</string>
     <string name="menu_create_dir">Create folder</string>
     <string name="menu_grid">Grid view</string>
     <string name="menu_list">List view</string>
@@ -14,7 +14,7 @@
     <string name="menu_share">Share</string>
     <string name="menu_delete">Delete</string>
     <string name="menu_select_all">Select all</string>
-    <string name="menu_copy">Copy to…</string>
+    <string name="menu_copy">Copy to</string>
     <string name="menu_advanced_show">Show SD card</string>
     <string name="menu_advanced_hide">Hide SD card</string>
     <string name="menu_file_size_show">Show file size</string>
@@ -24,25 +24,25 @@
     <string name="sort_name">By name</string>
     <string name="sort_date">By date modified</string>
     <string name="sort_size">By size</string>
-    <string name="drawer_open">Show roots</string>
-    <string name="drawer_close">Hide roots</string>
+    <string name="drawer_open">Show</string>
+    <string name="drawer_close">Hide</string>
     <string name="save_error">Failed to save document</string>
     <string name="create_error">Failed to create folder</string>
-    <string name="query_error">Failed to query documents</string>
+    <string name="query_error">Failed to query files</string>
     <string name="root_recent">Recent</string>
     <string name="root_available_bytes">%1$s free</string>
     <string name="root_type_service">Storage services</string>
     <string name="root_type_shortcut">Shortcuts</string>
     <string name="root_type_device">Devices</string>
-    <string name="root_type_apps">More apps</string>
+    <string name="root_type_apps">Apps</string>
     <string name="empty">No items</string>
     <string name="toast_no_application">"Can't open file"</string>
-    <string name="toast_failed_delete">Unable to delete some documents</string>
+    <string name="toast_failed_delete">Unable to delete some files</string>
     <string name="share_via">Share via</string>
     <string name="copy_notification_title">Copying files</string>
     <string name="copy_remaining">%s left</string>
-    <string name="copy_preparing">Preparing for copy…</string>
+    <string name="copy_preparing">Preparing to copy...</string>
     <string name="notification_touch_for_details">Touch to view details</string>
     <string name="retry">Retry</string>
-    <string name="copy_failure_alert_content">"These files weren't copied: %1$s"</string>
+    <string name="copy_failure_alert_content">"The selected files were not copied: %1$s"</string>
 </resources>
